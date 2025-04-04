@@ -8,7 +8,7 @@ public class NastaController {
 
     @GetMapping("/friend/message")
     public String sayHello(){
-        return "Hello Paras, Khana Khilwa de.";
+        return "Hello World!";
     }
 
 }
